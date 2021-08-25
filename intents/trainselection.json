@@ -1,0 +1,141 @@
+{
+  "id": "c4f83c82-baaa-4d7f-b27d-a3de26dcb370",
+  "name": "trainselection",
+  "auto": true,
+  "contexts": [
+    "train-selection"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "sendemail",
+          "lifespan": 9
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1851bb0d-3998-44f6-afee-e904bace3bc6",
+          "name": "selectsourcestations",
+          "required": false,
+          "dataType": "@sourcestations",
+          "value": "$selectsourcestations",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "61c3708d-aba4-4847-a6a8-14e0066b7533",
+          "name": "selectdeststations",
+          "required": false,
+          "dataType": "@deststations",
+          "value": "$selectdeststations",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "55403343-b101-4f1a-ad58-4e572d43722d",
+          "name": "selectarr-time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$selectarr-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7fefafbc-0140-4b6e-b769-a7e2a4ae4ad5",
+          "name": "selectdept-time",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "$selectdept-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ae0006f1-e2a2-4e05-925c-eba46c075940",
+          "name": "price",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$price",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fd8f2085-2bf5-46b3-b3dc-dd40ec8d8d4d",
+          "name": "day",
+          "required": false,
+          "dataType": "@day",
+          "value": "$day",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5b22c503-3ec2-463a-8f3c-cf9927b054fc",
+          "name": "classtype",
+          "required": false,
+          "dataType": "@classtype",
+          "value": "$classtype",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright, Please provide your name, phone, and email address."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

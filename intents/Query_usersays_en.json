@@ -1,0 +1,93 @@
+[
+  {
+    "id": "e67ce2a4-cbba-497e-a8e6-9c4bc2f7c14d",
+    "data": [
+      {
+        "text": "Can I ask you a question?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5c9f3c8-9989-4f90-9b23-e1094a8e077c",
+    "data": [
+      {
+        "text": "Ask Query",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12cf408d-2673-4544-a481-4d0c9031e325",
+    "data": [
+      {
+        "text": "Another Query",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d49082a-de10-4a39-af1b-3967ff7a9250",
+    "data": [
+      {
+        "text": "Could you please answer this query?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c533583f-c1d4-4cf0-960d-eff77f05dd3b",
+    "data": [
+      {
+        "text": "Can I ask you my query?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85060792-e4e2-42c0-8ef0-9ff011e3b7b4",
+    "data": [
+      {
+        "text": "I have a question for you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67ad9c05-2a04-4fc5-bed4-7e5c8c515e49",
+    "data": [
+      {
+        "text": "Query",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

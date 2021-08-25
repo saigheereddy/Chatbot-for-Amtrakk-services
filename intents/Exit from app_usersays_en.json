@@ -1,0 +1,54 @@
+[
+  {
+    "id": "35f33a41-c500-4f08-a909-f0640979ab8f",
+    "data": [
+      {
+        "text": "No, Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc655208-5a32-46dd-baf4-4b40964b83f8",
+    "data": [
+      {
+        "text": "Nothing else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7f8ef5d-e427-416c-96c3-e2cf1ef2dad5",
+    "data": [
+      {
+        "text": "No Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3510772a-f1b4-4a5d-9390-f4fd50acbece",
+    "data": [
+      {
+        "text": "Exit from app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

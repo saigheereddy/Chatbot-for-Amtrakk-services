@@ -1,0 +1,123 @@
+{
+  "id": "41306dd9-e357-4a3b-8929-48de932cd2ea",
+  "name": "sendemailticket",
+  "auto": true,
+  "contexts": [
+    "sendemail"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "checksomethingelse",
+          "lifespan": 5
+        },
+        {
+          "name": "welcomeexitfromapp",
+          "lifespan": 5
+        },
+        {
+          "name": "mainmenu",
+          "lifespan": 14
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f637e53d-ce6b-4e16-b43b-47a2d4c33ae2",
+          "name": "name",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me the name of passenger"
+            },
+            {
+              "lang": "en",
+              "value": "Please specify the passenger name on ticket"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "aea28de6-e33c-4b0b-a5b1-ee659107dce5",
+          "name": "phone",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell your phone number ?"
+            },
+            {
+              "lang": "en",
+              "value": "Your phone number .Please?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b21c3fa6-3b64-4b7b-8b7f-9fbf53a06c92",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Specify your mail address to send ticket details"
+            },
+            {
+              "lang": "en",
+              "value": "Please share your mail address to confirm the ticket.."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your Ticket has been confirmed."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

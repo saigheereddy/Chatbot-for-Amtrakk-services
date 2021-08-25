@@ -1,0 +1,44 @@
+{
+  "id": "8bb7f232-3ec3-47ef-871d-26c72a0211ad",
+  "parentId": "d0bba888-e7fe-4d68-a49c-c7c6b3072de1",
+  "rootParentId": "d0bba888-e7fe-4d68-a49c-c7c6b3072de1",
+  "name": "bookTrainTicket - yes",
+  "auto": true,
+  "contexts": [
+    "bookTrainTicket-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bookTrainTicket.bookTrainTicket-yes",
+      "affectedContexts": [
+        {
+          "name": "sendemail",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright, Please provide your name, phone, and email address."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

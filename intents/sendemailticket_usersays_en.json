@@ -1,0 +1,413 @@
+[
+  {
+    "id": "9185a378-1618-4b12-a6b6-aae381eb9f13",
+    "data": [
+      {
+        "text": "rs72579@umbc.edu",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec408acc-3a36-4690-aeb3-7667649419bd",
+    "data": [
+      {
+        "text": "tonydian@umbc.edu",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca7b9151-1614-4bfb-b730-c33167b50c26",
+    "data": [
+      {
+        "text": "Bhanu",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "7842190001",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aslamb1@umbc.edu",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a864605-778d-4399-94d1-1965a71cbc67",
+    "data": [
+      {
+        "text": "Aslam",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4434688203",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "669edda6-3295-48d1-8946-2b83d5025ed8",
+    "data": [
+      {
+        "text": "bhanu.samaa@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b54ebc28-6652-42ac-a778-227798cd1bae",
+    "data": [
+      {
+        "text": "aslambaig1234@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ca67d71-c7a4-4528-8652-a7b978d82536",
+    "data": [
+      {
+        "text": "aslambaigus@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3c7ecb1-00cf-405f-a2b0-4d16d37c6ed4",
+    "data": [
+      {
+        "text": "Alex",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca8c9c32-cdb5-431c-adfb-9e409f201e82",
+    "data": [
+      {
+        "text": "email ",
+        "userDefined": false
+      },
+      {
+        "text": "travelbot@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "157a4cf3-fe5c-4e53-a1e2-1004b6b1bfb1",
+    "data": [
+      {
+        "text": "40-9504567892",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "334b4be2-e944-40c5-91cf-08ac92b738bb",
+    "data": [
+      {
+        "text": "+91-9504567892",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6bbbf91-69c0-4d6f-80d9-3fa64d796566",
+    "data": [
+      {
+        "text": "9504567892",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2839e4c-04e0-4d04-8058-0cca2077f362",
+    "data": [
+      {
+        "text": "travelassistantbot@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60734f1d-8b75-41d1-bbab-ab59a8aad292",
+    "data": [
+      {
+        "text": "here is my phone number ",
+        "userDefined": false
+      },
+      {
+        "text": "6020478522",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": true
+      },
+      {
+        "text": " and email address  ",
+        "userDefined": false
+      },
+      {
+        "text": "travelassisstantbot123@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b971c31a-0d23-4ef3-b394-2a09b3f3a143",
+    "data": [
+      {
+        "text": "send the ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "travelassisstantbot123@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb15c3dd-02fc-4907-9a76-19db34aaf931",
+    "data": [
+      {
+        "text": "Here is my mail address ",
+        "userDefined": false
+      },
+      {
+        "text": "travelassisstantbot123@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdba5cdb-22a3-4bce-907d-6ef992f2a6f1",
+    "data": [
+      {
+        "text": "Please send details to the email address ",
+        "userDefined": false
+      },
+      {
+        "text": "travelassisstantbot123@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "822f83bf-b38f-4795-a6b2-5c8d93b886aa",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Alex",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce11fa19-6fe0-4710-8e83-6f2eb3990a38",
+    "data": [
+      {
+        "text": "My email address is ",
+        "userDefined": false
+      },
+      {
+        "text": "jan21081996@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0fac23b-172d-4c88-bac0-8b07e2d68a9c",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "john",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " and my phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "6020478522",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f34b205-5c47-4c4f-a665-7831d74c198d",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "john",
+        "meta": "@sys.any",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": " and my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "jan21081996@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

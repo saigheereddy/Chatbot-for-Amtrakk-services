@@ -1,0 +1,625 @@
+[
+  {
+    "id": "ecc675d6-bed0-4c6e-aab9-bfcdb47b7d6e",
+    "data": [
+      {
+        "text": "show me all",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": true
+      },
+      {
+        "text": " classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03fe5ab2-8453-4de7-8161-b529f7a3d0f3",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": false
+      },
+      {
+        "text": " class ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "Virginia Beach",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3051fd12-bbaf-41bc-9192-70c691675b41",
+    "data": [
+      {
+        "text": "Can you book me a ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": false
+      },
+      {
+        "text": " under ",
+        "userDefined": false
+      },
+      {
+        "text": "Business",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": false
+      },
+      {
+        "text": " class ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2085913-6117-4fc6-b8cb-4e517f905663",
+    "data": [
+      {
+        "text": "Please book me a ",
+        "userDefined": false
+      },
+      {
+        "text": "Coach",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": false
+      },
+      {
+        "text": " class ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fbe9530-9490-4515-bc04-06e9cded6783",
+    "data": [
+      {
+        "text": "Book me a ",
+        "userDefined": false
+      },
+      {
+        "text": "Business",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": false
+      },
+      {
+        "text": " class ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c48c8ef3-3919-4fe8-8328-419379494158",
+    "data": [
+      {
+        "text": "I\u0027ll go with ",
+        "userDefined": false
+      },
+      {
+        "text": "Coach",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": true
+      },
+      {
+        "text": " class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09ff0ec8-c5b6-45ba-85d7-f79c29e81473",
+    "data": [
+      {
+        "text": "Coach",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": true
+      },
+      {
+        "text": " class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56e6e18f-b728-46d4-8f31-555647348b98",
+    "data": [
+      {
+        "text": "Business",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f305d9b-922e-436a-9c0e-08953e09e536",
+    "data": [
+      {
+        "text": "I choose ",
+        "userDefined": false
+      },
+      {
+        "text": "Coach",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": true
+      },
+      {
+        "text": " class ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9f1485c-7f35-40f1-bdd9-a4d318d134e6",
+    "data": [
+      {
+        "text": "Go with ",
+        "userDefined": false
+      },
+      {
+        "text": "Business",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": true
+      },
+      {
+        "text": " class ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81e00d28-ad1f-4585-97c5-c742eca673f4",
+    "data": [
+      {
+        "text": "Book me a ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@classtype",
+        "alias": "classtype",
+        "userDefined": true
+      },
+      {
+        "text": " class ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7f6c570-b025-4fd4-83e8-ddd727f39171",
+    "data": [
+      {
+        "text": "Can I book a ticket from ",
+        "userDefined": false
+      },
+      {
+        "text": "baltimore",
+        "meta": "@sys.geo-city",
+        "alias": "from-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ea3b618-4241-4faa-895e-72103f9a369e",
+    "data": [
+      {
+        "text": "Can I book a ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81240903-d672-495a-a30c-a3fe2cc2bf6b",
+    "data": [
+      {
+        "text": "I am leaving from ",
+        "userDefined": false
+      },
+      {
+        "text": "Baltimore",
+        "meta": "@sys.geo-city",
+        "alias": "from-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a930c45-b6cd-4d5a-87d7-1f8f5ff92749",
+    "data": [
+      {
+        "text": "Hi, I need to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Philadelphia",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c7293f3-c51a-462f-9684-405f1b7fdff9",
+    "data": [
+      {
+        "text": "Hi, I want to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Philadelphia",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ef92648-0c68-4351-bbb3-c0c2d108d1f8",
+    "data": [
+      {
+        "text": "Book a new ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ce28552-826f-49be-b074-0276913861bd",
+    "data": [
+      {
+        "text": "Book a ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3aa2d812-23ae-451c-afd0-51e90d0e4b6f",
+    "data": [
+      {
+        "text": "can you book a ticket from ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city",
+        "alias": "from-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "320e71fe-ad79-4013-8a26-59c6c785f4ad",
+    "data": [
+      {
+        "text": "I want to travel from ",
+        "userDefined": false
+      },
+      {
+        "text": "new york",
+        "meta": "@sys.geo-city",
+        "alias": "from-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bb62e64-937c-43f0-b2c9-30d5076797fc",
+    "data": [
+      {
+        "text": "when is the next train to ",
+        "userDefined": false
+      },
+      {
+        "text": "Philadelphia",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "258ebea2-9e4c-4151-bc4e-ae95c1f8022b",
+    "data": [
+      {
+        "text": "I want to book a train ticket from ",
+        "userDefined": false
+      },
+      {
+        "text": "Baltimore",
+        "meta": "@sys.geo-city",
+        "alias": "from-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d65b62e-1ead-4fb0-a099-a89152cbbe3a",
+    "data": [
+      {
+        "text": "Book a train ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "585baf51-52e2-4f57-9488-13a0ff9ccbcf",
+    "data": [
+      {
+        "text": "I want to book a ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": true
+      },
+      {
+        "text": " by train",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e709ca93-427b-482f-902d-0f57cf00e03d",
+    "data": [
+      {
+        "text": "I want to travel to ",
+        "userDefined": false
+      },
+      {
+        "text": "Columbus",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "from-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50b82ab9-0a27-4f2c-be81-7f2d397be001",
+    "data": [
+      {
+        "text": "Please book a train ticket for me to ",
+        "userDefined": false
+      },
+      {
+        "text": "Baltimore",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3c44499-3ac4-446b-b40d-ed35bcd09f1d",
+    "data": [
+      {
+        "text": "I would like to travel to ",
+        "userDefined": false
+      },
+      {
+        "text": "Washington DC",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0f829c6-b661-4024-85d5-5c43ef6ad32d",
+    "data": [
+      {
+        "text": "book a train ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "Columbus",
+        "meta": "@sys.geo-city",
+        "alias": "to-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "077a13f8-a4b5-4f98-895d-d5b7e48ae573",
+    "data": [
+      {
+        "text": "Can you book a train ticket for me for ",
+        "userDefined": false
+      },
+      {
+        "text": "Jan 23, 2021",
+        "meta": "@sys.date",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

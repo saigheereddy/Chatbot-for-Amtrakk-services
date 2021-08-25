@@ -1,0 +1,150 @@
+{
+  "id": "d0bba888-e7fe-4d68-a49c-c7c6b3072de1",
+  "name": "bookTrainTicket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "bookTrainTicket-followup",
+          "lifespan": 7
+        },
+        {
+          "name": "train-selection",
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e6df1d4c-5c55-4823-be1c-afcffd47c0f2",
+          "name": "to-city",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$to-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Alright ! To which city you want to travel?"
+            },
+            {
+              "lang": "en",
+              "value": "What is your destination city?"
+            },
+            {
+              "lang": "en",
+              "value": "Where do you want to travel ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "77e8f214-b5f5-48dd-88cd-c5abf2dcc4a8",
+          "name": "date-time",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Ok , On what date you would like to travel ?"
+            },
+            {
+              "lang": "en",
+              "value": "Please specify the date of your  travel."
+            },
+            {
+              "lang": "en",
+              "value": "At which date you want to book a ticket?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c2dcd246-bd47-40c7-b541-2ae6b3bcec16",
+          "name": "from-city",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$from-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Ok, From which city you are traveling from ?"
+            },
+            {
+              "lang": "en",
+              "value": "What is the source city for this trip?"
+            },
+            {
+              "lang": "en",
+              "value": "From which city you want to travel?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "20fcb01c-8c86-4e48-9138-264d44d15c4e",
+          "name": "classtype",
+          "required": true,
+          "dataType": "@classtype",
+          "value": "$classtype",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Well, We are offering Business, First and Coach classes in our trains. Please enter your desired class."
+            },
+            {
+              "lang": "en",
+              "value": "Sure, we have Business, First and Coach class tickets. Please enter your desired class"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You want me to book a train ticket to $to-city  from  $from-city on $date-time.correct ?",
+            "Alright, Got it you want me to book a train ticket to $to-city  from  $from-city on $date-time .right ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
