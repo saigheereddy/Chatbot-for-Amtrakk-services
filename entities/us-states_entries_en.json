@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Baltimore",
+    "synonyms": [
+      "Baltimore"
+    ]
+  },
+  {
+    "value": "Virginia beach",
+    "synonyms": [
+      "Virginia beach",
+      "Virginia"
+    ]
+  },
+  {
+    "value": "New York State Fair Station",
+    "synonyms": [
+      "New York State Fair Station",
+      "New york"
+    ]
+  },
+  {
+    "value": "Boston",
+    "synonyms": [
+      "Boston"
+    ]
+  },
+  {
+    "value": "Baltimore washington",
+    "synonyms": [
+      "Baltimore washington"
+    ]
+  },
+  {
+    "value": "Columbus",
+    "synonyms": [
+      "Columbus"
+    ]
+  },
+  {
+    "value": "Washington DC",
+    "synonyms": [
+      "Washington DC",
+      "washington"
+    ]
+  }
+]

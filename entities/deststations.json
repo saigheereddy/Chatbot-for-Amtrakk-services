@@ -1,0 +1,9 @@
+{
+  "id": "78718878-a99d-4559-abf9-93b7f8b17cef",
+  "name": "deststations",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "652a7932-2799-4274-a342-57f8fd9f8f73",
+  "name": "sourcestations",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

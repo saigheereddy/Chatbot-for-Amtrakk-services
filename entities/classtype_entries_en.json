@@ -1,0 +1,30 @@
+[
+  {
+    "value": "Business",
+    "synonyms": [
+      "Business",
+      "premium",
+      "expensive"
+    ]
+  },
+  {
+    "value": "Coach",
+    "synonyms": [
+      "Coach",
+      "Cheap",
+      "afforable"
+    ]
+  },
+  {
+    "value": "First",
+    "synonyms": [
+      "First"
+    ]
+  },
+  {
+    "value": "Show me all",
+    "synonyms": [
+      "Show me all"
+    ]
+  }
+]

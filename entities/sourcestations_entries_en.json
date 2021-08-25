@@ -1,0 +1,44 @@
+[
+  {
+    "value": "BWI",
+    "synonyms": [
+      "BWI"
+    ]
+  },
+  {
+    "value": "NYF",
+    "synonyms": [
+      "NYF"
+    ]
+  },
+  {
+    "value": "BOS",
+    "synonyms": [
+      "BOS"
+    ]
+  },
+  {
+    "value": "BAL",
+    "synonyms": [
+      "BAL"
+    ]
+  },
+  {
+    "value": "COL",
+    "synonyms": [
+      "COL"
+    ]
+  },
+  {
+    "value": "WAS",
+    "synonyms": [
+      "WAS"
+    ]
+  },
+  {
+    "value": "VAB",
+    "synonyms": [
+      "VAB"
+    ]
+  }
+]
